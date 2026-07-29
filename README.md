@@ -1,2 +1,11 @@
 # Workfront-to-CTT-Integration
-This repository has word, powerpoint and excel documents that I want to reference to put together a proposal for the integration between Workfront and CTT due to restrictions we have that not all teams are using Workfront and also we have many reports, processes and architecture that are aligned to the CTT tool
+
+This repository documents the integration between Workfront and CTT (Campaign Tagging & Tracking), accounting for teams not yet on Workfront and existing reports, processes, and architecture aligned to CTT.
+
+## Active documentation
+
+- **20260729-Workfront to CTT Integration.docx** — current working document for the integration proposal.
+
+## Archive
+
+Previous drafts, BRDs, presentations, and reference materials are preserved in [`archive/legacy-documentation/`](archive/legacy-documentation/) so you can start fresh without losing prior work.
